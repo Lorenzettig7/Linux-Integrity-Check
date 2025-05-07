@@ -1,0 +1,7 @@
+Starting Integrity Check...
+----------------------------------------
+❗ Binary gprof not found in /usr/bin
+❗ Binary setpci not found in /usr/bin
+❗ Binary xzless not found in /usr/bin
+❗ Binary setarch not found in /usr/bin
+Integrity Check Complete.
